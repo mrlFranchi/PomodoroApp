@@ -6,6 +6,8 @@ The application should provide a timer that users can set to (the default) 25 mi
 
 In addition to basic timer functionality, this Pomodoro application offers additional features such as customizable intervals, the ability to track progress and productivity, and the option to customize the length of the break period, and notify the user when the pomodoro and break is over.
 
+Is planned to the application to run in aserver with web access, at that point, its an idea to have multt-user pomodoro sessions, where multiple users log in the sessions with the same timer.
+
 ### Sequence
 1. Decide on the task to be done
 2. Set up the Pomodoro Timer
